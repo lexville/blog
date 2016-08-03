@@ -1,5 +1,6 @@
 == Blog
 
-This is just a simple blog made using rails
+This is just a simple introduction to how to make a blog using rails
+ps. UI is not a priority
 
 With :heart: Lexville
